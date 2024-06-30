@@ -1,0 +1,26 @@
+{
+    "id": "1F203870",
+    "path": "~/UW/Y2/S2/CPP/Project/home_project_v1/R/hello.R",
+    "project_path": "R/hello.R",
+    "type": "r_source",
+    "hash": "1457051882",
+    "contents": "",
+    "dirty": false,
+    "created": 1719701161924.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1717881224,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717881224,
+    "read_only": false,
+    "read_only_alternatives": []
+}
